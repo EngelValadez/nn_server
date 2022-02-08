@@ -1,0 +1,18 @@
+[
+    {
+      "domain": "nonename.com.mx",
+      "path": "public/nonename"
+    },
+    {
+      "domain": "www.nonename.com.mx",
+      "path": "public/nonename"
+    },
+    {
+      "domain": "www.kogirl.mx",
+      "path": "public/kogirl"
+    },
+    {
+        "domain": "kogirl.mx",
+        "path": "public/kogirl"
+    }
+]
